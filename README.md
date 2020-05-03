@@ -10,8 +10,8 @@ It was a huge oppurtunity for getting training on Docker.
 
 Requirements for this:-
 
-1) Firstly,operating system-RedHat 8
+  1)Firstly,operating system-RedHat 8
 
-2)Secondly,Install docker on it
+  2)Secondly,Install docker on it
 
-3)Third,download docker-compose
+  3)Third,download docker-compose
